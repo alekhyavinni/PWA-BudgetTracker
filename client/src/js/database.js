@@ -29,7 +29,7 @@ console.log('data saved to the database',result);
 export const getDb = async () =>{
   console.log('Get from the database');
   const contactDb = await openDB('jate',1);
-  const tx=contactDb.trasaction('jate','readonly');
+  const tx=contactDb.transaction('jate','readonly');
   const store=tx.objectStore('jate');
   const request =store.getAll();
   const result =await request;
