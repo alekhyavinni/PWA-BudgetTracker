@@ -1,12 +1,11 @@
- <div align='center'>
+<div align="center">
+
+# PWA-TextEditor
+
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)](https://nodejs.org/en)
 
 </div>
-
-# PWA-TextEditor
- a browser-based text editor! It's a single-page app, a Progressive Web App (PWA), with robust data persistence features and offline functionality. You'll use 'idb,' a trusted package, to work with IndexedDB.
-
 
 
 ## Description
