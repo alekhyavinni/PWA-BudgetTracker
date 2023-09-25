@@ -1,6 +1,8 @@
- <div>
+ <div align='center'>
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)](https://nodejs.org/en)
+
+</div>
 
 # PWA-TextEditor
  a browser-based text editor! It's a single-page app, a Progressive Web App (PWA), with robust data persistence features and offline functionality. You'll use 'idb,' a trusted package, to work with IndexedDB.
@@ -84,7 +86,7 @@ WHEN I open the text editor
 ``````
 *Below is the screenshot of the text editor "Just Another Text Editor (J.A.T.E)"*
 
-![alt text](/assets/images/jate.png)
+![alt text](/assets/images/jate1.png)
 
 4.
 ``````
