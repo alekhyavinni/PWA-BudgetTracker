@@ -14,9 +14,6 @@ The application is a web text editor where the user can create notes or code sni
 
 The URL of the GitHub repository is https://github.com/alekhyavinni/PWA-TextEditor and the repository name is PWA-TextEditor.
 
-🚀The application has been deployed to Heroku and the URL of the deployed application is:-
- 
-https://mighty-waters-80466.herokuapp.com/
 
 ## Table of Contents
 
