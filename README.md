@@ -1,4 +1,5 @@
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)](https://nodejs.org/en)
 
 # PWA-TextEditor
  a browser-based text editor! It's a single-page app, a Progressive Web App (PWA), with robust data persistence features and offline functionality. You'll use 'idb,' a trusted package, to work with IndexedDB.
@@ -114,20 +115,18 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 ``````
 *Below is the screenshot of the static assets pre cached upon loading with subsequent pages and static assets"*
 
-![alt text](/assets/images/TE09.png)
+![alt text](/assets/images/service.png)
 
-![alt text](/assets/images/TE10.png)
-
-7.
-
- ````````
-WHEN I deploy to Heroku
-THEN I should have proper build scripts for a webpack application 
-````````
-![alt text](/assets/images/TE11.png)
+![alt text](/assets/images/network.png)
 
 
- 
 ## License
 
-This project is licensed under the terms of the MIT license.
+[MIT License](https://opensource.org/licenses/MIT)
+
+## Contributing
+
+This project was created as a challenge assignment for the UT Full Stack Boot Camp. Contact me with any ideas or requests.
+
+## Contact
+  If you have any questions about this projects, please contact me directly at alekhyavinni12@gmail.com. You can view more of my projects at https://github.com/alekhyavinni
